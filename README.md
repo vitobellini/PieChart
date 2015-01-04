@@ -3,7 +3,6 @@ PieChart
 
 Simple Pie Chart made in Swift
 
-Screenshot:
 ![1](https://cloud.githubusercontent.com/assets/165743/5607420/bad56dd6-945b-11e4-9615-d5206166b286.png)
 
 Example:
