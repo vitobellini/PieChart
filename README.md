@@ -11,3 +11,4 @@ Example:
         pieChartView.addItem(20, color: UIColor.redColor())
         pieChartView.addItem(20, color: UIColor.greenColor())
         pieChartView.addItem(60, color: UIColor.brownColor())
+        pieChartView.setNeedsDisplay()
